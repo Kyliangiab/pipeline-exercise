@@ -20,7 +20,7 @@
           "C) Optimisation des hyperparamètres",
           "D) Documentation du code"
         ],
-        "answer": "B) Validation du modèle sur données de test"
+        "answer": "B"
       },
       
       "q02": {
@@ -32,7 +32,7 @@
           "C) Déploiement d'applications web",
           "D) Visualisation de données"
         ],
-        "answer": "B) Tracking des expériences et versioning des modèles"
+        "answer": "B"
       },
       
       "q03": {
@@ -44,7 +44,7 @@
           "C) Le serveur tombe en panne",
           "D) Les utilisateurs changent leurs habitudes"
         ],
-        "answer": "B) Les données d'entrée changent par rapport à l'entraînement"
+        "answer": "B"
       },
       
       "q04": {
@@ -56,7 +56,7 @@
           "C) Un accès gratuit aux données",
           "D) Une interface utilisateur graphique"
         ],
-        "answer": "B) Une explication des décisions prise"
+        "answer": "B"
       },
       
       "q05": {
@@ -68,7 +68,7 @@
           "C) Recall uniquement",
           "D) Nombre total de prédictions correctes"
         ],
-        "answer": "B) F1-Score"
+        "answer": "B"
       },
       
       "q06": {
@@ -80,7 +80,7 @@
           "C) Une accélération de l'entraînement",
           "D) Une réduction de la consommation mémoire"
         ],
-        "answer": "B) Une discrimination systémique dans les prédictions"
+        "answer": "B"
       },
       
       "q07": {
@@ -92,7 +92,7 @@
           "C) API REST avec load balancer",
           "D) Base de données relationnelle"
         ],
-        "answer": "C) API REST avec load balancer"
+        "answer": "C"
       },
       
       "q08": {
@@ -104,7 +104,7 @@
           "C) Suppression de la variable",
           "D) Conversion en numérique simple (1, 2, 3...)"
         ],
-        "answer": "B) Target Encoding"
+        "answer": "B"
       },
       
       "q09": {
@@ -116,7 +116,7 @@
           "C) Nombre de lignes de code",
           "D) Pourcentage d'erreurs 5xx"
         ],
-        "answer": "C) Nombre de lignes de code"
+        "answer": "C"
       },
       
       "q10": {
@@ -128,7 +128,7 @@
           "C) Le temps d'exécution du modèle",
           "D) La complexité algorithmique"
         ],
-        "answer": "B) Les performances par groupe démographique"
+        "answer": "B"
       }
     },
     
